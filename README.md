@@ -4,7 +4,7 @@
 
 I am currently a Postdoctoral Scientist at the Bermuda Institute of Ocean Sciences (BIOS) and Arizona State University (ASU). I revieved a BSc in Marine Biology from Dalhousie University in 2016 and a PhD in Oceanography from the University of Victoria in 2023. My research is broadly concerned with the relationships between biological diversity and ecosystem function in marine environments, and the responses of ecological communities to environmental change. At present, I am working on the ENhancing COral REsilience (ENCORE) Project at BIOS to identify physiological and molecular indicators of coral resilience to climate change. 
 
-Visit my [personal website](https://www.bdjameson.com/)) to view a copy of my most recent CV, or for links to my Google Scholar page and social media accounts.
+Visit my [personal website](https://www.bdjameson.com/) to view a copy of my most recent CV, or for links to my Google Scholar page and social media accounts.
 
 As you were, 
 
