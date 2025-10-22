@@ -1,7 +1,5 @@
 # Brett D. Jameson, PhD
 
-### Welcome to the page!
-
 Every drop of seawater contains over a million microbial cells representing hundreds of species. Together, these microscopic life forms recycle essential nutrients, drive chemical transformations that regulate Earth’s climate, and sustain the planet’s habitability. Despite the fundamental importance of microorganisms to every ecosystem on Earth, the vast majority of microbial species and their roles as ecosystem engineers remain unknown. 
 
 I am a microbial oceanographer studying how environmental change shapes marine microbial communities and how these shifts influence marine biogeochemical cycles. I earned my PhD in Oceanography from the University of Victoria (2023), where I investigated the microbial dynamics regulating the production and consumption of Nitrous Oxide, a potent greenhouse gas and ozone-depleting agent.
