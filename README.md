@@ -72,9 +72,9 @@ Within this framework, I use multi-omics and SIP incubations to:
 My work spans diverse marine environments connected by strong geochemical gradients:
 
 - 🌊 Mesopelagic open ocean
-- 🟦 Oxygen-deficient zones  
-- 🟫 Coastal & continental margin sediments  
-- 🪸 Coral reefs    
+- 🫧 Oxygen-deficient zones
+- 🪸 Coral reefs
+- 🪨 Coastal & continental margin sediments      
 
 Across systems, my goal is to understand how the invisible majority of life in the ocean **structures ecosystems** and **shapes Earth’s climate trajectory**.
 
