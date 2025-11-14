@@ -34,7 +34,7 @@ I am a **microbial oceanographer** studying how environmental variability and cl
   Environmental drivers of microbial composition, traits, and interactions.
 
 - 🔗 **Metabolic networks & carbon flow**  
-  Dark carbon fixation, cross-feeding, and emergent metabolic organization.
+  Dark carbon fixation, organic matter transformations, and emergent metabolic organization.
 
 - 🌍 **Biogeochemical cycling**  
   Microbial controls on carbon, nitrogen, and greenhouse gas transformations.
