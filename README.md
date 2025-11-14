@@ -1,28 +1,93 @@
-# Brett D. Jameson, PhD
+<p align="center">
+  <img src="assets/BIOS-SCOPE-LOGO.png" 
+       alt="BIOS-SCOPE Logo"
+       height="140">
+</p>
 
-Every drop of seawater contains over a million microbial cells representing hundreds of species. Together, these microscopic life forms recycle essential nutrients, drive chemical transformations that regulate Earth’s climate, and sustain the planet’s habitability. Despite the fundamental importance of microorganisms to every ecosystem on Earth, the vast majority of microbial species and their roles as ecosystem engineers remain unknown. 
+<p align="center">
+  <a href="https://scholar.google.com/citations?user=F9emOLIAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=google-scholar" />
+  </a>
+  <a href="https://orcid.org/0000-0002-7833-0005">
+    <img src="https://img.shields.io/badge/ORCID-0000--0002--7833--0005-A6CE39?style=flat&logo=orcid" />
+  </a>
+  <a href="https://www.researchgate.net/profile/Brett-Jameson-2">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate" />
+  </a>
+</p>
 
-I am a microbial oceanographer studying how environmental change shapes marine microbial communities and how these shifts influence marine biogeochemical cycles. I earned my PhD in Oceanography from the University of Victoria (2023), where I investigated the microbial dynamics regulating the production and consumption of Nitrous Oxide, a potent greenhouse gas and ozone-depleting agent.
+---
 
-My research spans diverse marine ecosystems—from oxygen-deficient zones to mangrove sediments and coral reefs—seeking to uncover the metabolic and ecological traits that drive microbial community assembly, interactions, and biogeochemical cycles. Currently, I am a Postdoctoral Scientist at the Bermuda Institute of Ocean Sciences (BIOS) and Arizona State University (ASU), where I use multi-omics approaches to understand how microbial communities facilitate thermal tolerance in reef-building corals. 
+# **🌊 Brett D. Jameson, PhD**  
+### *Microbial Oceanographer & Marine Biogeochemist*  
+**Bermuda Institute of Ocean Sciences (BIOS) • BIOS-SCOPE Program**
 
-Visit my [personal website](https://www.bdjameson.com/) to view a copy of my most recent CV, or for links to my Google Scholar page and social media accounts.
+**Every milliliter of seawater contains over a million microbial cells**—an unseen biosphere that powers nutrient cycles, modulates ocean chemistry, and helps regulate Earth’s climate. Despite their importance, most marine microbes remain uncharacterized, and their responses to environmental change are still poorly understood.
 
-As you were, 
+I am a **microbial oceanographer** studying how environmental variability and climate-driven disturbances reshape **microbial community structure**, **metabolic networks**, and **biogeochemical cycles**. My work focuses on how microbial processes scale from **genes → metabolism → communities → ecosystems**, and how these invisible interactions influence the global state of the oceans and atmosphere.
 
-Jame
+---
 
-<!--
-**bdjameson/bdjameson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **🔬 Research Themes**
 
-Here are some ideas to get you started:
+- 🧬 **Microbial community dynamics**  
+  Environmental drivers of microbial composition, traits, and interactions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔗 **Metabolic networks & carbon flow**  
+  Dark carbon fixation, cross-feeding, and emergent metabolic organization.
+
+- 🌍 **Biogeochemical cycling**  
+  Microbial controls on carbon, nitrogen, and greenhouse gas transformations.
+
+- 🌡️ **Climate perturbations in marine ecosystems**  
+  Heatwaves, oxygen loss, and chemical variability shaping microbial responses.
+
+- 🧠 **Multi-omics integration & ecosystem modeling**  
+  Genome-resolved metagenomics, metatranscriptomics, SIP, and network analysis.
+
+---
+
+## **🌐 Current Position — BIOS-SCOPE Postdoctoral Scientist**
+
+I work with **BIOS-SCOPE**, a multi-institutional program investigating microbial oceanography in the **North Atlantic**, with long-term fieldwork centered at the **Bermuda Atlantic Time-series Study (BATS)**.
+
+### **🔭 BIOS-SCOPE integrates:**
+- Long-term ocean observing programs  
+- Genome-resolved metagenomics & transcriptomics  
+- Stable-isotope probing (DNA- & RNA-SIP)  
+- Biogeochemical rate measurements  
+- Systems ecology & network-based approaches  
+
+Within this framework, I use multi-omics and SIP incubations to:
+
+- Identify **dark carbon-fixing microbes**  
+- Map **microbial interaction networks** in the mesopelagic  
+- Quantify **carbon and energy flow**  
+- Understand how microbial communities respond to **climate variability**
+
+---
+
+## **🌎 Research Across Marine Ecosystems**
+
+My work spans diverse marine environments connected by strong geochemical gradients:
+
+- 🟦 Oxygen-deficient zones  
+- 🌱 Mangrove sediments  
+- 🪸 Coral reefs  
+- 🌊 Mesopelagic open ocean  
+
+Across systems, my goal is to understand how the invisible majority of life in the ocean **structures ecosystems** and **shapes Earth’s climate trajectory**.
+
+---
+
+## **🛠️ Tools, Skills & Approaches**
+
+- **Multi-omics:** metagenomics, metatranscriptomics, DNA/RNA-SIP  
+- **Biogeochemistry:** microsensors, incubation experiments, flux modeling  
+- **Computing:** R, Python, Bash, Snakemake, HPC workflows  
+- **Networks & Systems Biology:** microbial interactions, functional trait inference  
+- **Visualization:** ggplot2, ggraph, Cytoscape  
+
+---
+
+Thanks for visiting — feel free to explore my repositories for workflows, analysis tools, and ongoing microbial oceanography research 🌊  
