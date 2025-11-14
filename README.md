@@ -72,7 +72,7 @@ Within this framework, I use multi-omics and SIP incubations to:
 My work spans diverse marine environments connected by strong geochemical gradients:
 
 - 🟦 Oxygen-deficient zones  
-- 🌱 Mangrove sediments  
+- 🟫 Coastal & continental margin sediments  
 - 🪸 Coral reefs  
 - 🌊 Mesopelagic open ocean  
 
@@ -83,10 +83,9 @@ Across systems, my goal is to understand how the invisible majority of life in t
 ## **🛠️ Tools, Skills & Approaches**
 
 - **Multi-omics:** metagenomics, metatranscriptomics, DNA/RNA-SIP  
-- **Biogeochemistry:** microsensors, incubation experiments, flux modeling  
+- **Biogeochemistry:** microsensors, stable isotope experiments, flux modeling  
 - **Computing:** R, Python, Bash, Snakemake, HPC workflows  
 - **Networks & Systems Biology:** microbial interactions, functional trait inference  
-- **Visualization:** ggplot2, ggraph, Cytoscape  
 
 ---
 
