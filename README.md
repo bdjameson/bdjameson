@@ -22,7 +22,9 @@
 ### *Microbial Oceanographer & Marine Biogeochemist*  
 **Bermuda Institute of Ocean Sciences (BIOS) • BIOS-SCOPE Program**
 
-I am a **microbial oceanographer** studying how environmental variability and climate-driven disturbances reshape **microbial community structure**, **metabolic networks**, and **biogeochemical cycles**. My work focuses on how microbial processes scale from **genes → metabolism → communities → ecosystems**, and how these invisible interactions influence the global state of the oceans and atmosphere.
+Every drop of seawater contains over a million microbial cells representing hundreds of species. Together, these microscopic life forms recycle essential nutrients, drive chemical transformations that regulate Earth’s climate, and sustain the planet’s habitability. Despite the fundamental importance of microorganisms to every ecosystem on Earth, the vast majority of microbial species and their roles as ecosystem engineers remain unknown. 
+
+I am a **microbial oceanographer** studying how environmental variability and climate-driven disturbances reshape **microbial community structure**, **metabolic networks**, and **biogeochemical cycles**. My work spans diverse marine ecosystems—from oxygen-deficient zones to mangrove sediments and coral reefs—seeking to uncover the metabolic and ecological traits that drive microbial community assembly, interactions, and biogeochemical cycles.
 
 ---
 
@@ -41,49 +43,7 @@ I am a **microbial oceanographer** studying how environmental variability and cl
   Heatwaves, oxygen loss, and chemical variability shaping microbial responses.
 
 - 🧠 **Multi-omics integration & ecosystem modeling**  
-  Genome-resolved metagenomics, metatranscriptomics, SIP, and network analysis.
-
----
-
-## **🌐 Current Position — BIOS-SCOPE Postdoctoral Scientist**
-
-I work with **BIOS-SCOPE**, a multi-institutional program investigating microbial oceanography in the **North Atlantic**, with long-term fieldwork centered at the **Bermuda Atlantic Time-series Study (BATS)**.
-
-### **🔭 BIOS-SCOPE integrates:**
-- Long-term ocean observing programs  
-- Genome-resolved metagenomics & transcriptomics  
-- Stable-isotope probing (DNA- & RNA-SIP)  
-- Biogeochemical rate measurements  
-- Systems ecology & network-based approaches  
-
-Within this framework, I use multi-omics and SIP incubations to:
-
-- Identify **dark carbon-fixing microbes**  
-- Map **microbial interaction networks** in the mesopelagic  
-- Quantify **carbon and energy flow**  
-- Understand how microbial communities respond to **climate variability**
-
----
-
-## **🌎 Research Across Marine Ecosystems**
-
-My work spans diverse marine environments connected by strong geochemical gradients:
-
-- 🌊 Mesopelagic open ocean
-- 🫧 Oxygen-deficient zones
-- 🪸 Coral reefs
-- 🪨 Coastal & continental margin sediments      
-
-Across systems, my goal is to understand how the invisible majority of life in the ocean **structures ecosystems** and **shapes Earth’s climate trajectory**.
-
----
-
-## **🛠️ Tools, Skills & Approaches**
-
-- **Multi-omics:** metagenomics, metatranscriptomics, DNA/RNA-SIP  
-- **Biogeochemistry:** microsensors, stable isotope experiments, flux modeling  
-- **Computing:** R, Python, Bash, Snakemake, HPC workflows  
-- **Networks & Systems Biology:** microbial interactions, functional trait inference  
+  Genome-resolved metagenomics, metatranscriptomics, stable-isotope probing, and network analysis.
 
 ---
 
