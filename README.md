@@ -22,8 +22,6 @@
 ### *Microbial Oceanographer & Marine Biogeochemist*  
 **Bermuda Institute of Ocean Sciences (BIOS) • BIOS-SCOPE Program**
 
-**Every milliliter of seawater contains over a million microbial cells**—an unseen biosphere that powers nutrient cycles, modulates ocean chemistry, and helps regulate Earth’s climate. Despite their importance, most marine microbes remain uncharacterized, and their responses to environmental change are still poorly understood.
-
 I am a **microbial oceanographer** studying how environmental variability and climate-driven disturbances reshape **microbial community structure**, **metabolic networks**, and **biogeochemical cycles**. My work focuses on how microbial processes scale from **genes → metabolism → communities → ecosystems**, and how these invisible interactions influence the global state of the oceans and atmosphere.
 
 ---
